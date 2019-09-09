@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca374c2a-5e74-4cb0-a0bc-9ffbdb990ee1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/L- Tic_tac_toe/L-Tic_tac_toe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L- Tic_tac_toe/Main_tic_tac_toe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faking_Text_Area_Typing/Faking_TexArea_Typing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faking_Text_Area_Typing/Main_Faking_textArea.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,6 +65,7 @@
       <workItem from="1568004150185" duration="3114000" />
       <workItem from="1568015312796" duration="7932000" />
       <workItem from="1568023285033" duration="1497000" />
+      <workItem from="1568024909125" duration="486000" />
     </task>
     <task id="LOCAL-00001" summary="add T Demo_function_reverse">
       <created>1567926328942</created>
