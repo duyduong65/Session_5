@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca374c2a-5e74-4cb0-a0bc-9ffbdb990ee1" name="Default Changelist" comment="" />
+    <list default="true" id="ca374c2a-5e74-4cb0-a0bc-9ffbdb990ee1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/L-Sử dụng các hàm có sẵn trong mảng/Ex_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-Sử dụng các hàm có sẵn trong mảng/Ex_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-Sử dụng các hàm có sẵn trong mảng/Main_Ex1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -26,6 +31,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Documents and Settings" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,6 +62,9 @@
       <option name="presentableId" value="Default" />
       <updated>1567925429806</updated>
       <workItem from="1567925432810" duration="7319000" />
+      <workItem from="1568003478860" duration="69000" />
+      <workItem from="1568004150185" duration="3114000" />
+      <workItem from="1568015312796" duration="2429000" />
     </task>
     <task id="LOCAL-00001" summary="add T Demo_function_reverse">
       <created>1567926328942</created>
@@ -96,7 +105,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
