@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca374c2a-5e74-4cb0-a0bc-9ffbdb990ee1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/L-Dictionary/L-Dictionary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L-Dictionary/Main_Dictionary.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L-Dictionary/L-Dictionary.html" beforeDir="false" afterPath="$PROJECT_DIR$/L-Dictionary/L-Dictionary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L-Dictionary/Main_Dictionary.js" beforeDir="false" afterPath="$PROJECT_DIR$/L-Dictionary/Main_Dictionary.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
       <workItem from="1567925432810" duration="7319000" />
       <workItem from="1568003478860" duration="69000" />
       <workItem from="1568004150185" duration="3114000" />
-      <workItem from="1568015312796" duration="6335000" />
+      <workItem from="1568015312796" duration="7328000" />
     </task>
     <task id="LOCAL-00001" summary="add T Demo_function_reverse">
       <created>1567926328942</created>
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568019540267</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add dictionary simple">
+      <created>1568021681659</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568021681659</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +139,7 @@
     <MESSAGE value="add T find_MaxNumber_inArray" />
     <MESSAGE value="add T CaroSimple" />
     <MESSAGE value="add ex1_ex2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ex1_ex2" />
+    <MESSAGE value="add dictionary simple" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dictionary simple" />
   </component>
 </project>
