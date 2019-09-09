@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ex3</title>
+</head>
+<body>
+<script>
+    let str = prompt("Nhập vào dãy muốn chuyển: ");
+    let array = [];
+    let Upper = str.toUpperCase();
+    let lower = str.toLowerCase();
+
+    for (let i = 0; i < str.length; i++) {
+        if (Upper.includes(str[i])) {
+        array.push(str[i].toLowerCase());
+        } else if (lower.includes(str[i])){
+            array.push(str[i].toUpperCase());
+        }
+    }
+    document.write(array.join(""));
+
+</script>
+</body>
+</html>

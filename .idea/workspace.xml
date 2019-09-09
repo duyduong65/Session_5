@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca374c2a-5e74-4cb0-a0bc-9ffbdb990ee1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/L-Sử dụng các hàm có sẵn trong mảng/Ex_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L-Sử dụng các hàm có sẵn trong mảng/Ex_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L-Sử dụng các hàm có sẵn trong mảng/Main_Ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-Sử dụng các hàm có sẵn trong mảng/Ex_3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +62,7 @@
       <workItem from="1567925432810" duration="7319000" />
       <workItem from="1568003478860" duration="69000" />
       <workItem from="1568004150185" duration="3114000" />
-      <workItem from="1568015312796" duration="2429000" />
+      <workItem from="1568015312796" duration="4195000" />
     </task>
     <task id="LOCAL-00001" summary="add T Demo_function_reverse">
       <created>1567926328942</created>
@@ -94,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567931751679</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add ex1_ex2">
+      <created>1568017982653</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568017982653</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +123,7 @@
     <MESSAGE value="add T find_Element_in_array" />
     <MESSAGE value="add T find_MaxNumber_inArray" />
     <MESSAGE value="add T CaroSimple" />
-    <option name="LAST_COMMIT_MESSAGE" value="add T CaroSimple" />
+    <MESSAGE value="add ex1_ex2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ex1_ex2" />
   </component>
 </project>
