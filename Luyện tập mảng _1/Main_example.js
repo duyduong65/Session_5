@@ -92,6 +92,8 @@ function ex7() {
 
             }
         }
+    } else {
+        alert("Not found!")
     }
     array.pop();
     array.push("0");
@@ -100,17 +102,21 @@ function ex7() {
 
 function ex8() {
     let array = [];
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 5; i++) {
         let n = Number(prompt("Nhập vào 10 phần tử của mảng: "));
         array.push(n);
     }
-
-    for (let i = 0; i < array.length; i++) {
-        if (array[i] < array[i + 1]) {
-            let temp = array[i];
-            array[i] = array[i + 1];
-            array[i + 1] = temp;
+    let n = array.length;
+    for (let i = 0; i < n; i++) {
+        for (let j = n - 1; j >= 1; j--) {
+            if (array[j] > [j - 1]) {
+                let temp = array[j-1];
+                array[j-1] = array[j];
+                array[j] = temp;
+            }
         }
     }
+    document.write("array = [" + array + "]");
 }
+
 
