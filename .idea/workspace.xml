@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca374c2a-5e74-4cb0-a0bc-9ffbdb990ee1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Faking_Text_Area_Typing/Faking_TexArea_Typing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faking_Text_Area_Typing/Main_Faking_textArea.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faking_Text_Area_Typing/Main_Faking_textArea.js" beforeDir="false" afterPath="$PROJECT_DIR$/Faking_Text_Area_Typing/Main_Faking_textArea.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QXmgvVe1ANxFWcpomsyEHumu2l" />
