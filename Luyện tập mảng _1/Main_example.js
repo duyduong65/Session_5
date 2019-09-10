@@ -34,16 +34,42 @@ function ex3() {
     trungbinh = trungbinh / array.length;
     document.write("số lớn nhất là: " + maxNumber + " " + "trung bình của mảng là: " + trungbinh);
 }
-function ex4() {
-    let array =[];
 
-    for (let i = 0; i < 10; i++ ){
+function ex4() {
+    let array = [];
+    for (let i = 0; i < 10; i++) {
         let n = Number(prompt("Nhập vào 10 phần tử của mảng: "));
         array.push(n);
     }
     array = array.reverse();
     document.write("array = [" + array + "]");
 }
+
 function ex5() {
-    
+    let array = [1, 3, 4, -22, 54, -23, 2, 77, -9, -10];
+    let count = 0;
+    for (let i = 0; i < array.length; i++) {
+        if (array[i] < 0) {
+            count++;
+        }
+    }
+    document.write("có " + count + " số nguyên âm trong dãy");
+}
+
+function ex6() {
+    let array = [];
+    for (let i = 0; i < 10; i++) {
+        let n = Number(prompt("Nhập vào 10 phần tử của mảng: "));
+        array.push(n);
+    }
+    let vNumber = Number(prompt("Nhập vào số nguyên v: "));
+    for (let i = 0; i < array.length; i++) {
+        if (array.includes(vNumber)) {
+            document.write(vNumber + " is in array");
+            break;
+        } else {
+            document.write(vNumber + " is not in array");
+            break;
+        }
+    }
 }
