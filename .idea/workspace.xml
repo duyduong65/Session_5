@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca374c2a-5e74-4cb0-a0bc-9ffbdb990ee1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Luyện tập mảng _1/Main_example.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Luyện tập mảng _1/Xample_Full.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luyện tập mảng _1/Main_example.js" beforeDir="false" afterPath="$PROJECT_DIR$/Luyện tập mảng _1/Main_example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luyện tập mảng _1/Xample_Full.html" beforeDir="false" afterPath="$PROJECT_DIR$/Luyện tập mảng _1/Xample_Full.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +69,7 @@
       <workItem from="1568015312796" duration="7932000" />
       <workItem from="1568023285033" duration="1497000" />
       <workItem from="1568024909125" duration="486000" />
-      <workItem from="1568087434411" duration="1377000" />
+      <workItem from="1568087434411" duration="1661000" />
     </task>
     <task id="LOCAL-00001" summary="add T Demo_function_reverse">
       <created>1567926328942</created>
@@ -135,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568080166626</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add ex_1,2">
+      <created>1568088898905</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568088898905</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +169,7 @@
     <MESSAGE value="add dictionary simple" />
     <MESSAGE value="sửa biến =))" />
     <MESSAGE value="final_n_good fast cheap" />
-    <option name="LAST_COMMIT_MESSAGE" value="final_n_good fast cheap" />
+    <MESSAGE value="add ex_1,2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ex_1,2" />
   </component>
 </project>
