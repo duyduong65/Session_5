@@ -17,3 +17,13 @@ function ex_2() {
     arrayReverse = arrayReverse.join("");
     document.write(arrayReverse);
 }
+function ex_3() {
+    let array = [];
+    for (let i = 0; i < 10; i++) {
+        let element = prompt("Nhập vào 10 phần tử của mảng: ");
+        array.push(element);
+    }
+    let str = array.join("");
+    let elementCount = str.length;
+    document.write("Số ký tự trong chuỗi là: "+ elementCount);
+}
