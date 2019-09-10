@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca374c2a-5e74-4cb0-a0bc-9ffbdb990ee1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Faking_Text_Area_Typing/Faking_TexArea_Typing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faking_Text_Area_Typing/Main_Faking_textArea.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +63,8 @@
       <workItem from="1568004150185" duration="3114000" />
       <workItem from="1568015312796" duration="7932000" />
       <workItem from="1568023285033" duration="1497000" />
-      <workItem from="1568024909125" duration="486000" />
+      <workItem from="1568024909125" duration="544000" />
+      <workItem from="1568077228782" duration="942000" />
     </task>
     <task id="LOCAL-00001" summary="add T Demo_function_reverse">
       <created>1567926328942</created>
@@ -123,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568022687121</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add fakingTextArea">
+      <created>1568025437664</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568025437664</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +156,7 @@
     <MESSAGE value="add ex1_ex2" />
     <MESSAGE value="add dictionary simple" />
     <MESSAGE value="sửa biến =))" />
-    <option name="LAST_COMMIT_MESSAGE" value="sửa biến =))" />
+    <MESSAGE value="add fakingTextArea" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fakingTextArea" />
   </component>
 </project>
