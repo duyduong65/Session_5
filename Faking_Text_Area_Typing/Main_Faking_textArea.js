@@ -8,13 +8,14 @@ function faking() {
     if (stringLength > 0) {
         for (let i = 0; i <= stringLength; i++) {
             n = n + arrayString[i];
-            if (i === 24) {
-                document.getElementById('inputText').value = "";
+            if (i === 27) {
+                document.getElementById('inputText').value = " ";
                 n = "";
             }
         }
     }
-    document.getElementById('inputText').value = n;
+   document.getElementById('inputText').value = n;
     n = "";
 
 }
+
