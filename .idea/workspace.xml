@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca374c2a-5e74-4cb0-a0bc-9ffbdb990ee1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Luyện tập mảng _1/Main_example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Luyện tập mảng _1/Xample_Full.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faking_Text_Area_Typing/Main_Faking_textArea.js" beforeDir="false" afterPath="$PROJECT_DIR$/Faking_Text_Area_Typing/Main_Faking_textArea.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +51,9 @@
       </list>
     </option>
   </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -66,6 +70,7 @@
       <workItem from="1568015312796" duration="7932000" />
       <workItem from="1568023285033" duration="1497000" />
       <workItem from="1568024909125" duration="486000" />
+      <workItem from="1568087434411" duration="1377000" />
     </task>
     <task id="LOCAL-00001" summary="add T Demo_function_reverse">
       <created>1567926328942</created>
@@ -123,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568022687121</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="final_n_good fast cheap">
+      <created>1568080166626</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568080166626</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +162,7 @@
     <MESSAGE value="add ex1_ex2" />
     <MESSAGE value="add dictionary simple" />
     <MESSAGE value="sửa biến =))" />
-    <option name="LAST_COMMIT_MESSAGE" value="sửa biến =))" />
+    <MESSAGE value="final_n_good fast cheap" />
+    <option name="LAST_COMMIT_MESSAGE" value="final_n_good fast cheap" />
   </component>
 </project>
