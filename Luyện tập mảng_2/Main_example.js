@@ -48,7 +48,19 @@ function ex_5() {
         }
     }
     let str_3 = newArray.join("");
-    if (str_3 === str_2){
+    if (str_3 === str_2) {
         document.write("2 chuỗi giống nhau!")
     }
+}
+
+function ex_6() {
+    let str = prompt("Nhập vào chuỗi ký tự: ");
+    let array = str.split("");
+    for (let i = 0; i < array.length; i++) {
+        if (array[i] === "-") {
+            array[i] = "_";
+        }
+    }
+    let strConvert = array.join("")
+    document.write("Dãy sau chuyển đổi là: "+strConvert);
 }
