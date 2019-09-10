@@ -27,3 +27,9 @@ function ex_3() {
     let elementCount = str.length;
     document.write("Số ký tự trong chuỗi là: "+ elementCount);
 }
+function ex_4() {
+
+    let str = prompt("Nhập vào chuỗi ký tự: ");
+    let array = str.split(" ");
+    document.write("Số từ trong chuỗi là: " + array.length);
+}
