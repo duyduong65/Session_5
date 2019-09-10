@@ -110,8 +110,8 @@ function ex8() {
     for (let i = 0; i < n; i++) {
         for (let j = n - 1; j >= 1; j--) {
             if (array[j] > [j - 1]) {
-                let temp = array[j-1];
-                array[j-1] = array[j];
+                let temp = array[j - 1];
+                array[j - 1] = array[j];
                 array[j] = temp;
             }
         }
@@ -119,4 +119,19 @@ function ex8() {
     document.write("array = [" + array + "]");
 }
 
+function ex9() {
+    let array_1 = [];
+    for (let i = 0; i < 5; i++) {
+        let n = Number(prompt("Nhập vào 10 phần tử của mảng thứ nhất: "));
+        array_1.push(n);
+    }
+    let array_2 = [];
+    for (let i = 0; i < 5; i++) {
+        let n = Number(prompt("Nhập vào 10 phần tử của mảng thứ hai: "));
+        array_2.push(n);
+    }
+
+    let array_total = array_1.concat(array_2);
+    document.write("array = [" + array_total + "]");
+}
 
