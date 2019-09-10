@@ -70,7 +70,7 @@
       <workItem from="1568015312796" duration="7932000" />
       <workItem from="1568023285033" duration="1497000" />
       <workItem from="1568024909125" duration="486000" />
-      <workItem from="1568087434411" duration="2450000" />
+      <workItem from="1568087434411" duration="10819000" />
     </task>
     <task id="LOCAL-00001" summary="add T Demo_function_reverse">
       <created>1567926328942</created>
@@ -156,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568089420340</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add ex_6">
+      <created>1568089980995</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568089980995</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +194,7 @@
     <MESSAGE value="add ex_1,2" />
     <MESSAGE value="add ex_4" />
     <MESSAGE value="add ex_5" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ex_5" />
+    <MESSAGE value="add ex_6" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ex_6" />
   </component>
 </project>

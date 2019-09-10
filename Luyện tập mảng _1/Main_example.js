@@ -73,3 +73,44 @@ function ex6() {
         }
     }
 }
+
+function ex7() {
+    let array = [];
+    for (let i = 0; i < 10; i++) {
+        let n = Number(prompt("Nhập vào 10 phần tử của mảng: "));
+        array.push(n);
+    }
+    let vNumber = Number(prompt("Nhập vào số nguyên v: "));
+    let length;
+    if (array.includes(vNumber)) {
+        for (let i = 0; i < 9; i++) {
+            if (array[i] === vNumber) {
+                length = i;
+                let temp = array[length];
+                array[length] = array[length + 1];
+                array[length + 1] = temp;
+
+            }
+        }
+    }
+    array.pop();
+    array.push("0");
+    document.write("array = [" + array + "]");
+}
+
+function ex8() {
+    let array = [];
+    for (let i = 0; i < 10; i++) {
+        let n = Number(prompt("Nhập vào 10 phần tử của mảng: "));
+        array.push(n);
+    }
+
+    for (let i = 0; i < array.length; i++) {
+        if (array[i] < array[i + 1]) {
+            let temp = array[i];
+            array[i] = array[i + 1];
+            array[i + 1] = temp;
+        }
+    }
+}
+
