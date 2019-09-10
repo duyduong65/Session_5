@@ -17,6 +17,7 @@ function ex_2() {
     arrayReverse = arrayReverse.join("");
     document.write(arrayReverse);
 }
+
 function ex_3() {
     let array = [];
     for (let i = 0; i < 10; i++) {
@@ -25,11 +26,29 @@ function ex_3() {
     }
     let str = array.join("");
     let elementCount = str.length;
-    document.write("Số ký tự trong chuỗi là: "+ elementCount);
+    document.write("Số ký tự trong chuỗi là: " + elementCount);
 }
+
 function ex_4() {
 
     let str = prompt("Nhập vào chuỗi ký tự: ");
     let array = str.split(" ");
     document.write("Số từ trong chuỗi là: " + array.length);
+}
+
+function ex_5() {
+    let str_1 = prompt("Nhập vào chuỗi ký tự thứ nhất: ");
+    let str_2 = prompt("Nhập vào chuỗi ký tự thứ hai: ");
+    let array_1 = str_1.split("");
+    let array_2 = str_2.split("");
+    let newArray = [];
+    for (let i = 0; i < array_1.length; i++) {
+        if (array_1[i] === array_2[i]) {
+            newArray.push(array_1[i]);
+        }
+    }
+    let str_3 = newArray.join("");
+    if (str_3 === str_2){
+        document.write("2 chuỗi giống nhau!")
+    }
 }
