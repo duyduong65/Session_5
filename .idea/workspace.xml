@@ -69,7 +69,7 @@
       <workItem from="1568015312796" duration="7932000" />
       <workItem from="1568023285033" duration="1497000" />
       <workItem from="1568024909125" duration="486000" />
-      <workItem from="1568087434411" duration="1661000" />
+      <workItem from="1568087434411" duration="1951000" />
     </task>
     <task id="LOCAL-00001" summary="add T Demo_function_reverse">
       <created>1567926328942</created>
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568088898905</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add ex_4">
+      <created>1568089123701</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568089123701</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +177,7 @@
     <MESSAGE value="sửa biến =))" />
     <MESSAGE value="final_n_good fast cheap" />
     <MESSAGE value="add ex_1,2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ex_1,2" />
+    <MESSAGE value="add ex_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ex_4" />
   </component>
 </project>

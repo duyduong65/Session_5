@@ -35,5 +35,15 @@ function ex3() {
     document.write("số lớn nhất là: " + maxNumber + " " + "trung bình của mảng là: " + trungbinh);
 }
 function ex4() {
+    let array =[];
+
+    for (let i = 0; i < 10; i++ ){
+        let n = Number(prompt("Nhập vào 10 phần tử của mảng: "));
+        array.push(n);
+    }
+    array = array.reverse();
+    document.write("array = [" + array + "]");
+}
+function ex5() {
     
 }
