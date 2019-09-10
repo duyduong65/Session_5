@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca374c2a-5e74-4cb0-a0bc-9ffbdb990ee1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Luyện tập mảng _1/Main_example.js" beforeDir="false" afterPath="$PROJECT_DIR$/Luyện tập mảng _1/Main_example.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,7 +71,7 @@
       <workItem from="1568087434411" duration="13792000" />
       <workItem from="1568105427939" duration="516000" />
       <workItem from="1568106224346" duration="593000" />
-      <workItem from="1568107259002" duration="1035000" />
+      <workItem from="1568107259002" duration="1270000" />
     </task>
     <task id="LOCAL-00001" summary="add T Demo_function_reverse">
       <created>1567926328942</created>
@@ -186,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568104231756</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="final ex7">
+      <created>1568108366593</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1568108366593</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +227,7 @@
     <MESSAGE value="add ex_7" />
     <MESSAGE value="add ex_8" />
     <MESSAGE value="add ex_10" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ex_10" />
+    <MESSAGE value="final ex7" />
+    <option name="LAST_COMMIT_MESSAGE" value="final ex7" />
   </component>
 </project>

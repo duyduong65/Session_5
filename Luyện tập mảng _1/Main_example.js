@@ -81,16 +81,12 @@ function ex7() {
         array.push(n);
     }
     let vNumber = Number(prompt("Nhập vào số nguyên v: "));
-    if (array.includes(vNumber)) {
-        for (let i = 0; i < array.length - 1; i++) {
-            if (array[i] === vNumber) {
-                let temp = array[i];
-                array[i] = array[i + 1];
-                array[i + 1] = temp;
-            }
+    for (let i = 0; i < array.length - 1; i++) {
+        if (array[i] === vNumber) {
+            let temp = array[i];
+            array[i] = array[i + 1];
+            array[i + 1] = temp;
         }
-    } else {
-        alert("Not found!")
     }
     array.pop();
     array.push("0");
