@@ -13,8 +13,7 @@ function gameSimple() {
         array_2.push(array_1[elementRandom]);
         array_1.splice(elementRandom, 1);
     }
-    document.getElementById("user_1").innerHTML = array_1;
-    document.getElementById("user_2").innerHTML = array_2;
+     document.getElementById("user_2").innerHTML = array_2;
 }
 
 function startGame() {
